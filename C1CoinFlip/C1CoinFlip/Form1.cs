@@ -17,4 +17,31 @@ namespace C1CoinFlip
             InitializeComponent();
         }
     }
+
+    public class side
+    {
+        private string _Name;
+        private float _Weight;
+        
+        public string Name
+        {
+            set { this._Name = value; }
+            get { return this.Name;  }
+        }
+        
+        public float Weight
+        {
+            set { this._Weight = value; }
+            get { return this._Weight; }
+        }
+    }
+
+    public interface Die //no clue if I need to do anything else
+    {
+        
+        public side roll();
+        public List<side> getSides();
+    }
+
+    
 }
