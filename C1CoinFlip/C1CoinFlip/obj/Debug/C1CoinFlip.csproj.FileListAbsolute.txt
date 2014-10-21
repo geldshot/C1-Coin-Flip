@@ -1,1 +1,8 @@
 C:\Users\Geldshot\Documents\C1-Coin-Flip\C1CoinFlip\C1CoinFlip\bin\Debug\C1CoinFlip.exe.config
+C:\Users\Geldshot\Documents\C1-Coin-Flip\C1CoinFlip\C1CoinFlip\obj\Debug\C1CoinFlip.csprojResolveAssemblyReference.cache
+C:\Users\Geldshot\Documents\C1-Coin-Flip\C1CoinFlip\C1CoinFlip\obj\Debug\C1CoinFlip.Properties.Resources.resources
+C:\Users\Geldshot\Documents\C1-Coin-Flip\C1CoinFlip\C1CoinFlip\obj\Debug\C1CoinFlip.csproj.GenerateResource.Cache
+C:\Users\Geldshot\Documents\C1-Coin-Flip\C1CoinFlip\C1CoinFlip\bin\Debug\C1CoinFlip.exe
+C:\Users\Geldshot\Documents\C1-Coin-Flip\C1CoinFlip\C1CoinFlip\bin\Debug\C1CoinFlip.pdb
+C:\Users\Geldshot\Documents\C1-Coin-Flip\C1CoinFlip\C1CoinFlip\obj\Debug\C1CoinFlip.exe
+C:\Users\Geldshot\Documents\C1-Coin-Flip\C1CoinFlip\C1CoinFlip\obj\Debug\C1CoinFlip.pdb
